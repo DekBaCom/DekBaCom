@@ -2,14 +2,14 @@
 
 
 <p>Welcome to my page! </br> I'm Abdulloh Etaeluengoh, Solution Architecture from Bangkok, Thailand</b>, currently living in  <b>Bangkok, Thailand</b>. </p>
-- 💼 any freelance work? do reach, [email](mailto:abdulloh.eg@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+<br>
+- 💼 <b>any freelance work?</b> do reach, [email](mailto:abdulloh.eg@gmail.com) :)<br>
+- 💬 ask me about anything, i am happy to help;<br>
 
-<!--END_SECTION:waka-->
+<hr>
+<b>if you like what i do, maybe consider buying me a coffee/tea <b>🥺👉👈
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/dekbacom" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/dekbacom" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a><br>
 
 📈 my github stats
 
