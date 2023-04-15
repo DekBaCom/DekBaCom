@@ -41,10 +41,10 @@
 <p align="center">
   <a href="https://www.ilikeit.info"><img src="https://github.com/DekBaCom/dekbacom/blob/main/icon/icons8-website-100.png" alt="Website Me."/></a>
   <a href= "https://www.facebook.com/ilikeit.info"><img src="https://github.com/DekBaCom/dekbacom/blob/main/icon/icons8-facebook-100.png"/></a>
-  <a href="mailto:abdulloh.eg@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/abdulloh-etaeluengoh/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://www.youtube.com/c/iLikeITinfo"><img src="https://img.icons8.com/color/32/000000/youtube.png" alt="youtube"/></a>
-  <a href="https://twitter.com/dekbacom"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href= "https://www.tiktok.com/@ilikeit.info"><img src="https://img.icons8.com/fluent/32/000000/tiktok.png"/></a>
+  <a href="mailto:abdulloh.eg@gmail.com"><img src="https://github.com/DekBaCom/dekbacom/blob/main/icon/icons8-gmail-logo-100.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/abdulloh-etaeluengoh/"><img src="https://github.com/DekBaCom/dekbacom/blob/main/icon/icons8-linkedin-100.png" alt="linkedin"/></a>
+  <a href="https://www.youtube.com/c/iLikeITinfo"><img src="https://github.com/DekBaCom/dekbacom/blob/main/icon/icons8-youtube-logo-100.png" alt="youtube"/></a>
+  <a href="https://twitter.com/dekbacom"><img src="https://github.com/DekBaCom/dekbacom/blob/main/icon/icons8-twitter-circled-100.png" alt="twitter"/></a>
+  <a href= "https://www.tiktok.com/@ilikeit.info"><img src="https://github.com/DekBaCom/dekbacom/blob/main/icon/icons8-tiktok-100.png"/></a>
 </p>
 
