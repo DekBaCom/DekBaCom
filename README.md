@@ -14,3 +14,25 @@
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dekbacom&show_icons=true&theme=gotham" alt="dekbacom" />
+
+## Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Azure Firewall จบด้วยตัวเดียวครอบคลุมทุก Security](https://blog.cloudhm.co.th/azure-firewall-security/)
+- [10 วิธีพื้นฐานสำหรับผู้ดูแล Microsoft 365 ต้องรู้](https://blog.cloudhm.co.th/10-basic-for-m365/)
+- [มารู้จัก Azure Load Balancer กันเถอะ](https://blog.cloudhm.co.th/azure-load-balancer/)
+- [AZURE BASTION ความปลอดในปัจจุบันและอนาคต ที่คุณต้องใช้](https://blog.cloudhm.co.th/azure-bastion/)
+- [9 แนวทางเพิ่มประสิทธิภาพและลดค่าใช้จ่ายสำหรับ Azure](https://blog.cloudhm.co.th/9-way-optimize-efficiency-and-cost/)
+- [SQL บน Azure มีกี่ประเภท แบบไหนตอบโจทย์ Solution คุณ](https://blog.cloudhm.co.th/type-of-sql-azure/)
+- [Self-Service Password Reset (SSPR) ช่วยลดภาระไอทีได้อย่างไร?](https://blog.cloudhm.co.th/self-service-password-reset/)
+- [Azure Backup ตอบโจทย์ธุรกิจคุณได้อย่างไร?](https://blog.cloudhm.co.th/azure-backup/)
+- [Azure Application Gateway ตัวช่วยให้เว็บไม่ล่มและปลอดภัย](https://blog.cloudhm.co.th/azure-application-gateway/)
+- [หาก SQL Server ของเรา End of Support จะทำยังไงดี?](https://blog.cloudhm.co.th/sql-server-end-of-support/)
+- [Azure Virtual Desktop ตัวช่วยให้คุณทำงานได้จากทุกที่](https://blog.cloudhm.co.th/azure-virtual-desktop/)
+- [Microsoft Product Lifecycle เรื่องสำคัญที่จำเป็นต้องรู้!](https://blog.cloudhm.co.th/microsoft-product-lifecycle/)
+- [Microsoft Cloud Adoption Framework for Azure](https://blog.cloudhm.co.th/microsoft-cloud-adoption-framework-for-azure/)
+- [Azure Active Directory คืออะไร? ทำไมหลายองค์กรถึงนิยมใช้](https://blog.cloudhm.co.th/azure-active-directory/)
+- [Azure Landing Zone คืออะไร? ทำไมต้องมีก่อนขึ้น Azure Cloud](https://blog.cloudhm.co.th/what-is-azure-landing-zone/)
+- [สิ่งที่ควรรู้ก่อน Migrate ขึ้น Microsoft Azure](https://blog.cloudhm.co.th/migrate-to-azure/)
+- [เพิ่มความปลอดภัยให้ข้อมูลในองค์กรด้วย Azure Sentinel](https://blog.cloudhm.co.th/azure-sentinel/)
+
