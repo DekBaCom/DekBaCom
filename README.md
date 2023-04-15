@@ -39,7 +39,7 @@
 ## Links
 
 <p align="center">
-  <a href="https://www.ilikeit.info"><img src="https://maxst.icons8.com/vue-static/landings/app/tabs/windows.png" alt="Website Me."/></a>
+  <a href="https://www.ilikeit.info"><img src="https://icons8.com/icon/111139/website" alt="Website Me."/></a>
   <a href= "https://www.facebook.com/ilikeit.info"><img src="https://img.icons8.com/windows/256/facebook-new.png"/></a>
   <a href="mailto:abdulloh.eg@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/abdulloh-etaeluengoh/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
