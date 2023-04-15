@@ -11,9 +11,6 @@
 
 <a href="https://www.buymeacoffee.com/dekbacom" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a><br>
 
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dekbacom&show_icons=true&theme=gotham" alt="dekbacom" />
 
 ## Latest blog posts
 
