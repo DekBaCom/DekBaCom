@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to my page! </h1>
 
 
-<p>I'm Abdulloh Etaeluengoh, Solution Architecture from Bangkok, Thailand</b>, currently living in  <b>Bangkok, Thailand</b>. </p>
+<p>I'm Abdulloh Etaeluengoh, <b>Solution Architecture</b> from Bangkok, Thailand, currently living in  <b>Bangkok, Thailand</b>. </p>
 <br>
 - 💼 <b>any freelance work?</b> do reach, [email](mailto:abdulloh.eg@gmail.com) :)<br>
 - 💬 ask me about anything, i am happy to help;<br>
