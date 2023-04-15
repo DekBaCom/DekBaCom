@@ -36,3 +36,15 @@
 - [สิ่งที่ควรรู้ก่อน Migrate ขึ้น Microsoft Azure](https://blog.cloudhm.co.th/migrate-to-azure/)
 - [เพิ่มความปลอดภัยให้ข้อมูลในองค์กรด้วย Azure Sentinel](https://blog.cloudhm.co.th/azure-sentinel/)
 
+## Links
+
+<p align="center">
+  <a href="https://www.ilikeit.info"><img src="https://maxst.icons8.com/vue-static/landings/app/tabs/windows.png" alt="Website Me."/></a>
+  <a href= "https://www.facebook.com/ilikeit.info"><img src="https://img.icons8.com/windows/256/facebook-new.png"/></a>
+  <a href="mailto:abdulloh.eg@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/abdulloh-etaeluengoh/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.youtube.com/c/iLikeITinfo"><img src="https://img.icons8.com/color/32/000000/youtube.png" alt="youtube"/></a>
+  <a href="https://twitter.com/dekbacom"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href= "https://www.tiktok.com/@ilikeit.info"><img src="https://img.icons8.com/fluent/32/000000/tiktok.png"/></a>
+</p>
+
