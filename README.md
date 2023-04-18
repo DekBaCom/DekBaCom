@@ -11,7 +11,9 @@
 
 <a href="https://www.buymeacoffee.com/dekbacom" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a><br>
 
-
+## Latest Github posts
+- [How to create distributiongroup and add member ](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/Create_distributionGroup-and-Add-Member)  
+  
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
