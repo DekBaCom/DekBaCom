@@ -15,7 +15,8 @@
 - [Microsoft365 ](https://github.com/DekBaCom/Microsoft365)  
 ## Latest Github posts
 - [How to create distributiongroup and add member ](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/Create_distributionGroup-and-Add-Member)  
-- [Terraform ](https://github.com/DekBaCom/Terraform)
+- [All Command for Terraform ](https://github.com/DekBaCom/Terraform/blob/main/Command.md)
+- [Configuration Center for Terraform ](https://github.com/DekBaCom/Terraform/blob/main/Configuration.md)
 
 ## Latest Instructor on Udemy
 - [มาเรียนรู้วิธีจัดการ Outlook on Web สำหรับAdmin ผู้เริ่มต้น](https://www.udemy.com/course/outlook-on-web-admin)  
