@@ -17,6 +17,10 @@
 - [How to create distributiongroup and add member ](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/Create_distributionGroup-and-Add-Member)  
 - [All Command for Terraform ](https://github.com/DekBaCom/Terraform/blob/main/Command.md)
 - [Configuration Center for Terraform ](https://github.com/DekBaCom/Terraform/blob/main/Configuration.md)
+- [How to create distributiongroup and add member ](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/Create_distributionGroup-and-Add-Member)
+- [How to create new account assign license and force change passwork next logon ](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/CreateAccount)
+- [How to create Meeting room and Room list ](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/RoomMeeting)
+- [How to Foce active onedrive](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/Force-ActiveOndrive)
 
 ## Latest Instructor on Udemy
 - [มาเรียนรู้วิธีจัดการ Outlook on Web สำหรับAdmin ผู้เริ่มต้น](https://www.udemy.com/course/outlook-on-web-admin)  
