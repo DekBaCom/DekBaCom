@@ -22,6 +22,7 @@
 - [How to create Meeting room and Room list ](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/RoomMeeting)
 - [How to Foce active onedrive](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/Powershell-force-ActiveOndrive)
 - [How to Create Sharemailbox](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/PowershellCreateShareMailbox)
+- [How to add alias mail ](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/Alias-Mail)
 ## Latest Instructor on Udemy
 - [มาเรียนรู้วิธีจัดการ Outlook on Web สำหรับAdmin ผู้เริ่มต้น](https://www.udemy.com/course/outlook-on-web-admin)  
 ## Latest blog posts
