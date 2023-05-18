@@ -23,6 +23,7 @@
 - [How to Foce enable onedrive](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/Powershell-force-EnableOndrive)
 - [How to Create Sharemailbox](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/PowershellCreateShareMailbox)
 - [How to add alias mail ](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/Alias-Mail)
+- [How-to-deploy-Microsoft365-AppDeployment](https://github.com/DekBaCom/Microsoft365/tree/main/Management/How-to-deploy-Microsoft365-AppDeployment)
 ## Latest Instructor on Udemy
 - [มาเรียนรู้วิธีจัดการ Outlook on Web สำหรับAdmin ผู้เริ่มต้น](https://www.udemy.com/course/outlook-on-web-admin)  
 ## Latest blog posts
