@@ -1,7 +1,5 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to my page! </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 👋 Hello, I'm Abdulloh!</h1>
 
-
-<p>👋 Hello, I'm Abdulloh!
 
 🏢 I specialize in Azure architecture and M365, with a passion for building robust and scalable solutions. I thrive on tackling complex challenges and finding innovative ways to leverage cloud technologies.
 
