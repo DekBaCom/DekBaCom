@@ -1,7 +1,20 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to my page! </h1>
 
 
-<p>I'm Abdulloh Etaeluengoh, <b>Solution Architecture</b> from Bangkok, Thailand, currently living in  <b>Bangkok, Thailand</b>. </p>
+<p>👋 Hello, I'm Abdulloh!
+
+🏢 I specialize in Azure architecture and M365, with a passion for building robust and scalable solutions. I thrive on tackling complex challenges and finding innovative ways to leverage cloud technologies.
+
+🌴 Currently based in Thailand, I enjoy collaborating with diverse teams to drive digital transformation and deliver impactful results. I believe in the power of technology to empower businesses and individuals alike.
+
+🎓 With a strong background in Azure and M365, I stay up-to-date with the latest trends and best practices in cloud computing. I love sharing my knowledge through open-source projects, blog posts, and speaking engagements.
+
+💡 Let's connect and explore the endless possibilities of Azure and M365 together. Follow me on GitHub for exciting projects and insights into cloud architecture.
+
+Looking forward to collaborating and creating remarkable solutions! 🚀
+
+#Azure #M365 #CloudArchitect #Thailand
+</p>
 <br>
 - 💼 <b>any freelance work?</b> do reach, [email](mailto:abdulloh.eg@gmail.com) :)<br>
 - 💬 ask me about anything, i am happy to help;<br>
