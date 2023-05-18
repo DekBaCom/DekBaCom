@@ -16,7 +16,7 @@ Looking forward to collaborating and creating remarkable solutions! 🚀
 #Azure #M365 #CloudArchitect #Thailand
 </p>
 <br>
-- 💼 <b>any freelance work?</b> do reach, [email](mailto:abdulloh.eg@gmail.com) :)<br>
+- 💼 <b>any freelance work?</b> do reach, [email](abdulloh.eg@gmail.com) :)<br>
 - 💬 ask me about anything, i am happy to help;<br>
 
 <hr>
