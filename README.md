@@ -25,7 +25,9 @@ Looking forward to collaborating and creating remarkable solutions! 🚀
 ## Category on Github 
 - [Terraform ](https://github.com/DekBaCom/Terraform)
 - [Microsoft365 ](https://github.com/DekBaCom/Microsoft365)  
+- [Azure Scripts ](https://github.com/DekBaCom/AzureScripts) 
 ## Latest Github posts
+- [Get-Inventory on Azure and Export ](https://github.com/DekBaCom/AzureScripts/tree/main/Get-InventoryonAzure) 
 - [How to create distributiongroup and add member ](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/Create_distributionGroup-and-Add-Member)  
 - [All Command for Terraform ](https://github.com/DekBaCom/Terraform/blob/main/Command.md)
 - [Configuration Center for Terraform ](https://github.com/DekBaCom/Terraform/blob/main/Configuration.md)
