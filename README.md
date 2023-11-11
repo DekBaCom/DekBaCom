@@ -79,7 +79,7 @@
 ## Links
 
 <p align="center">
-  <a href="https://www.ilikeit.info"><img src="https://github.com/DekBaCom/dekbacom/blob/main/icon/icons8-website-100.png" alt="Website Me."/></a>
+  <a href="https://medium.com/@abdulloh.eg"><img src="https://github.com/DekBaCom/dekbacom/blob/main/icon/medium-100.png" alt="Medium Me."/></a>
   <a href= "https://www.facebook.com/ilikeit.info"><img src="https://github.com/DekBaCom/dekbacom/blob/main/icon/icons8-facebook-100.png"/></a>
   <a href="mailto:abdulloh.eg@gmail.com"><img src="https://github.com/DekBaCom/dekbacom/blob/main/icon/icons8-gmail-logo-100.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/abdulloh-etaeluengoh/"><img src="https://github.com/DekBaCom/dekbacom/blob/main/icon/icons8-linkedin-100.png" alt="linkedin"/></a>
