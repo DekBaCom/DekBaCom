@@ -4,7 +4,8 @@
 
 🏢 <b>I'm Abdulloh , specialize in Azure architecture and M365</b>, with a passion for building robust and scalable solutions. I thrive on tackling complex challenges and finding innovative ways to leverage cloud technologies. 
 
-## Skills
+## Tech Stack
+
 **Exchange:** Implement , Migrate , Upgrade and hybrid.
 **Identity:** Active Directory , Entra ID ,  Azure B2C , Conditional access, Azure AD Connect.
 **Microsoft365:** Design , Implement ,Support and Training .
