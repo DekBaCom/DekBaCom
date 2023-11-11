@@ -11,7 +11,7 @@
 **Microsoft365:** Design , Implement ,Support and Training .<br>
 **Mail Server Migration  :** Imap Migration to Microsoft365 , Google workspace to Microsoft365<br>
 **Azure :** Consult , Implement , Design , CAF , WAF and Training .<br>
-**Solution:** Azure CAF , WAF , Azure virtual desktop , Azure Migration , Web aplication(WAF)<br>
+**Solution:** Azure CAF , WAF , Azure virtual desktop , Azure Migration , Web aplication(WAF),Cloud flare tunnel<br>
 **Subscription agreement :** CSP , EA , transfer subscription.<br>
 
 <h3>Cloud</h3><p>
