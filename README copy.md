@@ -2,7 +2,7 @@
 
 👋 Hello, I'm Abdulloh!
 
-🏢 I specialize in Azure architecture and M365, with a passion for building robust and scalable solutions. I thrive on tackling complex challenges and finding innovative ways to leverage cloud technologies. <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" width="13"/>
+🏢 I specialize in Azure architecture and M365, with a passion for building robust and scalable solutions. I thrive on tackling complex challenges and finding innovative ways to leverage cloud technologies.
 
 🌴 Currently based in Thailand, I enjoy collaborating with diverse teams to drive digital transformation and deliver impactful results. I believe in the power of technology to empower businesses and individuals alike.
 
