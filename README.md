@@ -6,13 +6,13 @@
 
 ## Tech Stack
 
-**Exchange:** Implement , Migrate , Upgrade and hybrid.
-**Identity:** Active Directory , Entra ID ,  Azure B2C , Conditional access, Azure AD Connect.
-**Microsoft365:** Design , Implement ,Support and Training .
-**Mail Server Migration  :** Imap Migration to Microsoft365 , Google workspace to Microsoft365
-**Azure :** Consult , Implement , Design , CAF , WAF and Training .
-**Solution:** Azure CAF , WAF , Azure virtual desktop , Azure Migration , Web aplication(WAF)
-**Subscription agreement :** CSP , EA , transfer subscription.
+**Exchange:** Implement , Migrate , Upgrade and hybrid.<br>
+**Identity:** Active Directory , Entra ID ,  Azure B2C , Conditional access, Azure AD Connect.<br>
+**Microsoft365:** Design , Implement ,Support and Training .<br>
+**Mail Server Migration  :** Imap Migration to Microsoft365 , Google workspace to Microsoft365<br>
+**Azure :** Consult , Implement , Design , CAF , WAF and Training .<br>
+**Solution:** Azure CAF , WAF , Azure virtual desktop , Azure Migration , Web aplication(WAF)<br>
+**Subscription agreement :** CSP , EA , transfer subscription.<br>
 
 <h3>Cloud and Operating system</h3><p>
 <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
