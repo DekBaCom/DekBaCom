@@ -4,11 +4,6 @@
 
 🏢 <b>I'm Abdulloh , specialize in Azure architecture and M365</b>, with a passion for building robust and scalable solutions. I thrive on tackling complex challenges and finding innovative ways to leverage cloud technologies. <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" width="25"/>
 
-
-🌴 Currently based in Thailand, I enjoy collaborating with diverse teams to drive digital transformation and deliver impactful results. I believe in the power of technology to empower businesses and individuals alike.
-
-🎓 With a strong background in Azure and M365, I stay up-to-date with the latest trends and best practices in cloud computing. I love sharing my knowledge through open-source projects, blog posts, and speaking engagements.
-<h3>## 🛠 Skills</h3>
 <h3>Cloud and Operating system</h3><p>
 <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
 <h3>IaC</h3><p>
@@ -18,6 +13,11 @@
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=whit"  />
 <h3>Terminal and IDE</h3><p>
 <img alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /><img alt="Powershell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/><img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"  />
+
+🌴 Currently based in Thailand, I enjoy collaborating with diverse teams to drive digital transformation and deliver impactful results. I believe in the power of technology to empower businesses and individuals alike.
+
+🎓 With a strong background in Azure and M365, I stay up-to-date with the latest trends and best practices in cloud computing. I love sharing my knowledge through open-source projects, blog posts, and speaking engagements.
+
 <p>Looking forward to collaborating and creating remarkable solutions! 🚀
 #Azure #M365 #CloudArchitect #Thailand
 
