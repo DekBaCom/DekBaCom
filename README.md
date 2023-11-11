@@ -14,9 +14,9 @@
 **Solution:** Azure CAF , WAF , Azure virtual desktop , Azure Migration , Web aplication(WAF)<br>
 **Subscription agreement :** CSP , EA , transfer subscription.<br>
 
-<h3>Cloud and Operating system</h3><p>
+<h3>Cloud</h3><p>
 <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
-<h3>IaC</h3><p>
+<h3>infrastructure as code (IaC)</h3><p>
 <img alt="Vagrant" src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white" /><img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/><img alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"  />
 <h3>Virtualization</h3><p>
 <img alt="Vagrant" src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white" /><img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"/><img alt="VMware" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"  /><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=whit"  />
