@@ -41,7 +41,8 @@
 - [Terraform ](https://github.com/DekBaCom/Terraform)
 - [Vagrant](https://github.com/DekBaCom/Vagrant) 
 - [Microsoft365 ](https://github.com/DekBaCom/Microsoft365)  
-- [Azure Scripts ](https://github.com/DekBaCom/AzureScripts) 
+- [Azure Scripts ](https://github.com/DekBaCom/AzureScripts)
+- [Ansible ](https://github.com/DekBaCom/Ansible.git)
 
 ## Latest Github posts
 - [Get-Inventory on Azure and Export ](https://github.com/DekBaCom/AzureScripts/tree/main/Get-InventoryonAzure) 
